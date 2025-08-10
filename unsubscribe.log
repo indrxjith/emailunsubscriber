@@ -1,0 +1,328 @@
+2025-08-10 14:43:19,726 - ERROR - Fatal error: sequence item 0: expected str instance, bytes found
+2025-08-10 14:51:32,194 - INFO - Successfully connected to IMAP server
+2025-08-10 14:51:32,516 - INFO - Found 188 emails with 'unsubscribe'
+2025-08-10 14:51:33,960 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:51:33,987 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:34,812 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:34,859 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:34,866 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:51:34,896 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:36,561 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:51:36,587 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:51:36,596 - INFO - Found 1 unsubscribe links for nse_alerts@nse.co.in
+2025-08-10 14:51:36,606 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:36,629 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:51:37,986 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 14:51:38,015 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 14:51:38,098 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:51:39,405 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:39,426 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:39,442 - INFO - Found 1 unsubscribe links for no-reply@amazonpay.in
+2025-08-10 14:51:39,474 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:51:39,478 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:51:39,506 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:40,195 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 14:51:40,241 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:51:40,259 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:41,019 - INFO - Found 1 unsubscribe links for no-reply@amazonpay.in
+2025-08-10 14:51:41,032 - INFO - Found 1 unsubscribe links for noreply@us-news.alison.com
+2025-08-10 14:51:41,052 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:51:41,055 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:51:41,912 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 14:51:41,963 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:41,988 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:51:41,999 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:51:42,626 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:42,634 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 14:51:42,662 - INFO - Found 1 unsubscribe links for noreply@empower-yourself.alison.com
+2025-08-10 14:51:42,679 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:43,751 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:51:43,760 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:51:43,766 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:51:43,813 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:51:43,822 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 14:51:43,851 - INFO - Found 1 unsubscribe links for leon@onyxdata.co.uk
+2025-08-10 14:51:44,458 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:51:44,471 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:44,489 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 14:51:44,527 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 14:51:45,171 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:51:45,245 - INFO - Found 1 unsubscribe links for noreply@us-education.alison.com
+2025-08-10 14:51:45,264 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 14:51:45,270 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:51:45,930 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:45,960 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:51:45,997 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:46,027 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 14:51:46,039 - INFO - Found 1 unsubscribe links for team@framer.com
+2025-08-10 14:51:46,772 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:51:46,800 - INFO - Found 1 unsubscribe links for noreply@us-news.alison.com
+2025-08-10 14:51:46,827 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:51:46,833 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:51:47,451 - INFO - Found 1 unsubscribe links for noreply@framer.com
+2025-08-10 14:51:47,480 - INFO - Found 1 unsubscribe links for newsletter@email.blockchain.com
+2025-08-10 14:51:48,122 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 14:51:48,132 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:51:48,137 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 14:51:48,184 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:48,879 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:51:48,887 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:51:48,939 - INFO - Found 1 unsubscribe links for noreply@framer.com
+2025-08-10 14:51:49,570 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:51:49,595 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:51:49,617 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:51:49,655 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:50,277 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:51:50,278 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:59:11,872 - INFO - Successfully connected to IMAP server
+2025-08-10 14:59:12,213 - INFO - Found 188 emails with 'unsubscribe'
+2025-08-10 14:59:13,499 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:59:13,530 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:14,376 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:14,425 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:14,431 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:59:14,460 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:15,370 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:59:15,411 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:59:15,419 - INFO - Found 1 unsubscribe links for nse_alerts@nse.co.in
+2025-08-10 14:59:15,429 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:15,455 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:59:16,183 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 14:59:16,215 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 14:59:16,308 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:59:17,034 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:17,062 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:17,085 - INFO - Found 1 unsubscribe links for no-reply@amazonpay.in
+2025-08-10 14:59:17,125 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:59:17,131 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:59:17,176 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:17,851 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 14:59:17,903 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:59:17,923 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:18,747 - INFO - Found 1 unsubscribe links for no-reply@amazonpay.in
+2025-08-10 14:59:18,765 - INFO - Found 1 unsubscribe links for noreply@us-news.alison.com
+2025-08-10 14:59:18,790 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:59:18,794 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:59:19,689 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 14:59:19,758 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:19,787 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:59:19,799 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:59:20,497 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:20,504 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 14:59:20,535 - INFO - Found 1 unsubscribe links for noreply@empower-yourself.alison.com
+2025-08-10 14:59:20,553 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:21,823 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:59:21,838 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:59:21,845 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:59:21,908 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:59:21,920 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 14:59:21,957 - INFO - Found 1 unsubscribe links for leon@onyxdata.co.uk
+2025-08-10 14:59:22,568 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:59:22,585 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:22,606 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 14:59:22,644 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 14:59:23,358 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:59:23,436 - INFO - Found 1 unsubscribe links for noreply@us-education.alison.com
+2025-08-10 14:59:23,454 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 14:59:23,461 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:59:24,351 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:24,383 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:59:24,421 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:24,447 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 14:59:24,458 - INFO - Found 1 unsubscribe links for team@framer.com
+2025-08-10 14:59:25,311 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:59:25,348 - INFO - Found 1 unsubscribe links for noreply@us-news.alison.com
+2025-08-10 14:59:25,387 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:59:25,396 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:59:26,114 - INFO - Found 1 unsubscribe links for noreply@framer.com
+2025-08-10 14:59:26,145 - INFO - Found 1 unsubscribe links for newsletter@email.blockchain.com
+2025-08-10 14:59:26,896 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 14:59:26,906 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:59:26,912 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 14:59:26,963 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:27,538 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:59:27,551 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 14:59:27,627 - INFO - Found 1 unsubscribe links for noreply@framer.com
+2025-08-10 14:59:28,326 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 14:59:28,360 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 14:59:28,391 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 14:59:28,449 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:29,208 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 14:59:29,209 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:02:10,161 - INFO - Successfully connected to IMAP server
+2025-08-10 15:02:10,494 - INFO - Found 188 emails with 'unsubscribe'
+2025-08-10 15:02:11,905 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:02:11,929 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:12,932 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:12,980 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:12,986 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:02:13,015 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:14,024 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:02:14,049 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:02:14,057 - INFO - Found 1 unsubscribe links for nse_alerts@nse.co.in
+2025-08-10 15:02:14,066 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:14,088 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:02:14,855 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 15:02:14,894 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 15:02:15,004 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:02:15,654 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:15,677 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:15,695 - INFO - Found 1 unsubscribe links for no-reply@amazonpay.in
+2025-08-10 15:02:15,726 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:02:15,730 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:02:15,758 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:16,328 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 15:02:16,373 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:02:16,388 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:17,241 - INFO - Found 1 unsubscribe links for no-reply@amazonpay.in
+2025-08-10 15:02:17,254 - INFO - Found 1 unsubscribe links for noreply@us-news.alison.com
+2025-08-10 15:02:17,274 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:02:17,278 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:02:18,124 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 15:02:18,179 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:18,204 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:02:18,215 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:02:18,898 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:18,910 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 15:02:18,956 - INFO - Found 1 unsubscribe links for noreply@empower-yourself.alison.com
+2025-08-10 15:02:18,978 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:20,078 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:02:20,090 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:02:20,095 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:02:20,142 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:02:20,152 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 15:02:20,181 - INFO - Found 1 unsubscribe links for leon@onyxdata.co.uk
+2025-08-10 15:02:20,744 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:02:20,757 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:20,777 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 15:02:20,810 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 15:02:21,405 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:02:21,468 - INFO - Found 1 unsubscribe links for noreply@us-education.alison.com
+2025-08-10 15:02:21,482 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 15:02:21,487 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:02:22,372 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:22,399 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:02:22,433 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:22,462 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 15:02:22,473 - INFO - Found 1 unsubscribe links for team@framer.com
+2025-08-10 15:02:23,392 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:02:23,424 - INFO - Found 1 unsubscribe links for noreply@us-news.alison.com
+2025-08-10 15:02:23,456 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:02:23,464 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:02:24,058 - INFO - Found 1 unsubscribe links for noreply@framer.com
+2025-08-10 15:02:24,087 - INFO - Found 1 unsubscribe links for newsletter@email.blockchain.com
+2025-08-10 15:02:24,771 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 15:02:24,789 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:02:24,798 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 15:02:24,852 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:25,393 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:02:25,402 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:02:25,456 - INFO - Found 1 unsubscribe links for noreply@framer.com
+2025-08-10 15:02:26,250 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:02:26,298 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:02:26,339 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:02:26,442 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:27,070 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:02:27,072 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:03:05,947 - INFO - Successfully connected to IMAP server
+2025-08-10 15:03:06,315 - INFO - Found 188 emails with 'unsubscribe'
+2025-08-10 15:03:07,546 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:03:07,570 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:08,345 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:08,395 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:08,400 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:03:08,430 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:09,255 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:03:09,284 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:03:09,292 - INFO - Found 1 unsubscribe links for nse_alerts@nse.co.in
+2025-08-10 15:03:09,302 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:09,328 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:03:09,987 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 15:03:10,026 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 15:03:10,135 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:03:10,799 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:10,824 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:10,844 - INFO - Found 1 unsubscribe links for no-reply@amazonpay.in
+2025-08-10 15:03:10,884 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:03:10,889 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:03:10,924 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:11,506 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 15:03:11,553 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:03:11,568 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:12,261 - INFO - Found 1 unsubscribe links for no-reply@amazonpay.in
+2025-08-10 15:03:12,277 - INFO - Found 1 unsubscribe links for noreply@us-news.alison.com
+2025-08-10 15:03:12,298 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:03:12,303 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:03:13,104 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 15:03:13,186 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:13,220 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:03:13,234 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:03:13,852 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:13,862 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 15:03:13,893 - INFO - Found 1 unsubscribe links for noreply@empower-yourself.alison.com
+2025-08-10 15:03:13,909 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:15,078 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:03:15,088 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:03:15,094 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:03:15,141 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:03:15,150 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 15:03:15,181 - INFO - Found 1 unsubscribe links for leon@onyxdata.co.uk
+2025-08-10 15:03:15,742 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:03:15,757 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:15,782 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 15:03:15,822 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 15:03:16,427 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:03:16,496 - INFO - Found 1 unsubscribe links for noreply@us-education.alison.com
+2025-08-10 15:03:16,511 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 15:03:16,518 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:03:17,169 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:17,198 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:03:17,236 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:17,269 - INFO - Found 1 unsubscribe links for noreply@campaigns.upstox.com
+2025-08-10 15:03:17,281 - INFO - Found 1 unsubscribe links for team@framer.com
+2025-08-10 15:03:18,003 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:03:18,038 - INFO - Found 1 unsubscribe links for noreply@us-news.alison.com
+2025-08-10 15:03:18,080 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:03:18,092 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:03:18,709 - INFO - Found 1 unsubscribe links for noreply@framer.com
+2025-08-10 15:03:18,743 - INFO - Found 1 unsubscribe links for newsletter@email.blockchain.com
+2025-08-10 15:03:19,342 - INFO - Found 1 unsubscribe links for no-reply@substack.com
+2025-08-10 15:03:19,352 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:03:19,357 - INFO - Found 1 unsubscribe links for contact@onyxdata.co.uk
+2025-08-10 15:03:19,404 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:20,028 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:03:20,037 - INFO - Found 1 unsubscribe links for no-reply@mail.instagram.com
+2025-08-10 15:03:20,104 - INFO - Found 1 unsubscribe links for noreply@framer.com
+2025-08-10 15:03:20,753 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:03:20,793 - INFO - Found 1 unsubscribe links for noreply@glassdoor.com
+2025-08-10 15:03:20,825 - INFO - Found 1 unsubscribe links for discover@airbnb.com
+2025-08-10 15:03:20,875 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:21,506 - INFO - Found 1 unsubscribe links for noreply@us-skills.alison.com
+2025-08-10 15:03:21,507 - INFO - Found 1 unsubscribe links for offers@mailer.jiomart.com
+2025-08-10 15:03:33,539 - INFO - Unsubscribed via https://unsubscribe.convertkit-mail2.com/v8u5wgpkg2crhvndxreughvqxpmllf9hqlvnr
+2025-08-10 15:03:34,476 - INFO - Unsubscribed via https://unsubscribe.convertkit-mail2.com/4zu8639k3diehp0l3x5cxh64drl77a5hng5vw
+2025-08-10 15:03:35,601 - INFO - Unsubscribed via https://unsubscribe.convertkit-mail2.com/v8u5wgpkg2crhvnwrwwughv20o0lls9hqlvnr
+2025-08-10 15:03:36,327 - INFO - Unsubscribed via https://unsubscribe.convertkit-mail2.com/0vu07o54o2b9h9mrlllblhv083855snhn52r7
+2025-08-10 15:03:38,583 - INFO - Unsubscribed via https://www.airbnb.co.in/account-settings/email-unsubscribe?mac=O6Ludl2Ww0qsyBgKa4ad_omGKUA=&token=eyJ1dWlkIjoiZDkzY2FlNzEtMmU0YS1jODc5LTRiZDQtZWJiN2RhYzBlNmRjIiwidGVtcGxhdGUiOiJDQU5WQVNfRU1BSUwiLCJncmFudWxhcl9jYXRlZ29yeSI6IlRSQVZFTF9JTlNQSVJBVElPTl9PRkZFUlMifQ==
+2025-08-10 15:03:40,478 - INFO - Unsubscribed via https://www.airbnb.co.in/account-settings/email-unsubscribe?mac=FlSgC5hF5tr0SqEcNOztftMTeKs=&token=eyJ1dWlkIjoiOGE2Y2QyN2UtYzljNy04OTAzLTg1MGYtYzRmMDUyM2Q3Mjc4IiwidGVtcGxhdGUiOiJDQU5WQVNfRU1BSUwiLCJncmFudWxhcl9jYXRlZ29yeSI6IlRSSVBfUExBTk5JTkcifQ==
+2025-08-10 15:03:42,703 - INFO - Unsubscribed via https://www.airbnb.co.in/account-settings/email-unsubscribe?mac=WHpbtcNvEdIOdQxy4Q1hMmCBYpY=&token=eyJ1dWlkIjoiMTNlOTM1YTgtNmFkNy01MWEzLTA3NzAtMmU0NzYyN2EyZjEyIiwidGVtcGxhdGUiOiJDQU5WQVNfRU1BSUwiLCJncmFudWxhcl9jYXRlZ29yeSI6IlRSSVBfUExBTk5JTkcifQ==
+2025-08-10 15:03:44,340 - INFO - Unsubscribed via https://www.airbnb.co.in/account-settings/email-unsubscribe?mac=V4NooLKBZvSW5mnCXdtjPwxkD6w=&token=eyJ1dWlkIjoiYjIwOTJiNzUtYjAxMC0xNGZlLWYwMmQtOTE2MjJmZjRkYzYzIiwidGVtcGxhdGUiOiJDQU5WQVNfRU1BSUwiLCJncmFudWxhcl9jYXRlZ29yeSI6IlRSSVBfUExBTk5JTkcifQ==
+2025-08-10 15:03:47,608 - INFO - Unsubscribed via https://www.airbnb.co.in/account-settings/email-unsubscribe?mac=l_mepbjjx7BTis3U7VyAESVo-nI=&token=eyJ1dWlkIjoiMDQxZjZjNmUtZDU2ZS01NjM3LThjY2YtYmRiNzIxMGE3OTIyIiwidGVtcGxhdGUiOiJDQU5WQVNfRU1BSUwiLCJncmFudWxhcl9jYXRlZ29yeSI6IlRSSVBfUExBTk5JTkcifQ==
+2025-08-10 15:03:50,477 - INFO - Unsubscribed via https://www.airbnb.co.in/account-settings/email-unsubscribe?mac=zfk9Z54_bow1ht2WmdcLj4lAYFw=&token=eyJ1dWlkIjoiNTgzNWE0ZTAtZTM4My0xNzU4LTdlZWQtY2UwNzRjMTVhOTE2IiwidGVtcGxhdGUiOiJDQU5WQVNfRU1BSUwiLCJncmFudWxhcl9jYXRlZ29yeSI6IlRSQVZFTF9JTlNQSVJBVElPTl9PRkZFUlMifQ==
+2025-08-10 15:03:53,666 - INFO - Unsubscribed via https://www.airbnb.co.in/account-settings/email-unsubscribe?mac=Pw2xjE5s64nvbGY6BG6_UVndEjQ=&token=eyJ1dWlkIjoiMTRjY2VjYmUtYjhkNS0wMTdiLTViYWUtN2MwNTFkOTMwYTFhIiwidGVtcGxhdGUiOiJDQU5WQVNfRU1BSUwiLCJncmFudWxhcl9jYXRlZ29yeSI6IlRSSVBfUExBTk5JTkcifQ==
+2025-08-10 15:03:56,261 - INFO - Unsubscribed via https://www.airbnb.co.in/account-settings/email-unsubscribe?mac=wXNI_6oNqB6Q1zi-6OEkeeFb5QM=&token=eyJ1dWlkIjoiNTA4MjQ1ZWQtYzU3MC1kZGE2LWZhY2MtMGRhZmQ0YzMwZTRmIiwidGVtcGxhdGUiOiJDQU5WQVNfRU1BSUwiLCJncmFudWxhcl9jYXRlZ29yeSI6IlRSSVBfUExBTk5JTkcifQ==
+2025-08-10 15:04:01,158 - INFO - Unsubscribed via https://unsubscribe.convertkit-mail2.com/38u9z7gq74tkh2qm6xeirh47dzonnh7h4x8p5
+2025-08-10 15:04:04,514 - INFO - Unsubscribed via https://links.blockchain.com/e/encryptedUnsubscribe?_r=b077a02c6d894ec28e56236cee81e43a&_s=a8f0152cca5c4545a2de351035b4b3d0&_t=TF_QlQpgr4AJt-8h1ouhGDXh17bl8RFKG6S7_sXJ_viSpCVYJ2YZVZ3gKYykur7hWmgN28bQRFg9ad8DJga7XISvlbNFmdcjVGk31HiFaQ3VSFRojvADbxwBIQI7srj7NVEa8JuJ-_wp85EpOYlUpBw7clpV8LcuaoBknCdd0kY%3D
+2025-08-10 15:04:08,110 - WARNING - Failed (503): https://www.amazon.in/rpe/localunsubscribe?externalReferenceId=70940efb-e860-4cf0-8e97-0c670e52d2ea&useCase=Electricity
+2025-08-10 15:04:12,285 - INFO - Unsubscribed via http://www.instagram.com/emails/unsubscribe/reminders?user_id=50800423817&sig=AU-2jNVb4wFQgeAr&notification_type=49
+2025-08-10 15:04:18,161 - INFO - Unsubscribed via http://www.instagram.com/emails/unsubscribe/reminders?user_id=50800423817&sig=AU-2jNVb4wFQgeAr&notification_type=45
+2025-08-10 15:04:22,421 - INFO - Unsubscribed via http://www.instagram.com/emails/unsubscribe/reminders?user_id=50800423817&sig=AU-2jNVb4wFQgeAr&notification_type=83
+2025-08-10 15:04:26,916 - INFO - Unsubscribed via https://substack.com/api/v1/email/notification/unsubscribe?token=eyJ1c2VyX2lkIjoyOTY2OTE0OTcsInRvcGljIjoicmVhZGVyX3B1YmxpY2F0aW9uX3JlY29tbWVuZGF0aW9uIiwiaWF0IjoxNzUzODk2MDIwLCJleHAiOjE3ODU0MzIwMjAsImlzcyI6InB1Yi0wIiwic3ViIjoibm90aWZpY2F0aW9uLXVuc3Vic2NyaWJlIn0.ZJGRV3NFLUVIOU7jc0i6Twe5hgLNyyAoBuM83RWtmz0
+2025-08-10 15:04:32,043 - INFO - Unsubscribed via https://substack.com/api/v1/email/notification/unsubscribe?token=eyJ1c2VyX2lkIjoyOTY2OTE0OTcsInRvcGljIjoicmVhZGVyX3B1YmxpY2F0aW9uX3JlY29tbWVuZGF0aW9uIiwiaWF0IjoxNzU0NDQ3NTIzLCJleHAiOjE3ODU5ODM1MjMsImlzcyI6InB1Yi0wIiwic3ViIjoibm90aWZpY2F0aW9uLXVuc3Vic2NyaWJlIn0.9DPekR9grjIXpkxCTkunOnyUaSF4chCwrSEOb571XWQ
+2025-08-10 15:04:38,997 - INFO - Unsubscribed via https://substack.com/api/v1/email/notification/unsubscribe?token=eyJ1c2VyX2lkIjoyOTY2OTE0OTcsInRvcGljIjoicmVhZGVyX3B1YmxpY2F0aW9uX3JlY29tbWVuZGF0aW9uIiwiaWF0IjoxNzUzODQyNDA2LCJleHAiOjE3ODUzNzg0MDYsImlzcyI6InB1Yi0wIiwic3ViIjoibm90aWZpY2F0aW9uLXVuc3Vic2NyaWJlIn0.ASdUdBPSRvlJyeqwcLtx2Jwy4o8HkWckZK0ffwK4YGA
+2025-08-10 15:04:43,809 - INFO - Unsubscribed via https://in1.wizrocketmail.net/r?e=K2JqHB8HawJ6bGV9DSZjfwAHBQZva2A1KSQlNUxOAABlbWZ5b2tgN3JwQlEkKTskOQUxJF1bWFEXGi56Kz8kLlxETXo4LjstPjkzP1tfXxQUNjsoPD82N0kSRk4lMQ0iM3hoaQMHBAZgbmNyZGINeQICBARga2Vpe3glMUBbbkQ%2BLD0%2FdWBwPEhCWmszPzQqIjYmaU8%3D&r=https%3A%2F%2Fupstox.com%2Funsubscribe%2F&c=713868000&token=GlVfAAVTBAIFAAU%3D&try=1&$follow_redirect=true
+2025-08-10 15:04:49,229 - INFO - Unsubscribed via https://in1.wizrocketmail.net/r?e=K2JqHB8HawJ6bGV9DSZjfwAHBQZva2A1KSQlNUxOAABlbWZ5b2tgN3JwQlEkKTskOQUxJF1bWFEXGi56Kz8kLlxETXo4LjstPjkzP1tfXxQUNjsoPD82N0kSRk4lMQ0iM3hoaQMHBAdkbGJ8YWoNeQICBARgaGZpe3glMUBbbkQ%2BLD0%2FdWBwPEhCWmszPzQqIjYmaU8%3D&r=https%3A%2F%2Fupstox.com%2Funsubscribe%2F&c=713246016&token=GlVfAAVTBAIFAAU%3D&try=1&$follow_redirect=true
+2025-08-10 15:04:55,320 - INFO - Unsubscribed via https://in1.wizrocketmail.net/r?e=K2JqHB8HawJ6bGV9DSZjfwAHBQZva2A1KSQlNUxOAABlbWZ5b2tgN3JwQlEkKTskOQUxJF1bWFEXGi56Kz8kLlxETXo4LjstPjkzP1tfXxQUNjsoPD82N0kSRk4lMQ0iM3hoaQMHBAdnYmNzbmgNeQICBARgaGNpe3glMUBbbkQ%2BLD0%2FdWBwPEhCWmszPzQqIjYmaU8%3D&r=https%3A%2F%2Fupstox.com%2Funsubscribe%2F&c=713415648&token=GlVfAAVTBAIFAAU%3D&try=1&$follow_redirect=true
+2025-08-10 15:05:03,244 - INFO - Unsubscribed via https://in1.wizrocketmail.net/r?e=K2JqHB8HawJ6bGV9DSZjfwAHBQZva2A1KSQlNUxOAABlbWZ5b2tgN3JwQlEkKTskOQUxJF1bWFEXGi56Kz8kLlxETXo4LjstPjkzP1tfXxQUNjsoPD82N0kSRk4lMQ0iM3hoaQMHBAdiaGt7Z20NeQICBARgaGRpe3glMUBbbkQ%2BLD0%2FdWBwPEhCWmszPzQqIjYmaU8%3D&r=https%3A%2F%2Fupstox.com%2Funsubscribe%2F&c=713415648&token=GlVfAAVTBAIFAAU%3D&try=1&$follow_redirect=true
+2025-08-10 15:05:09,065 - INFO - Unsubscribed via https://in1.wizrocketmail.net/r?e=K2JqHB8HawJ6bGV9DSZjfwAHBQZva2A1KSQlNUxOAABlbWZ5b2tgN3JwQlEkKTskOQUxJF1bWFEXGi56Kz8kLlxETXo4LjstPjkzP1tfXxQUNjsoPD82N0kSRk4lMQ0iM3hoaQMHBABmaGJ7ZWINeQICBARvamBpe3glMUBbbkQ%2BLD0%2FdWBwPEhCWmszPzQqIjYmaU8%3D&r=https%3A%2F%2Fupstox.com%2Funsubscribe%2F&c=712624032&token=GlVfAAVTBAIFAAU%3D&try=1&$follow_redirect=true
+2025-08-10 15:05:15,404 - WARNING - Failed (403): https://alison.com/unsubscribe?instant=1&lid=45041000&k=aW5kcmFqaXRoYXM2NjhAZ21haWwuY29t&utm_source=outbound+marketing&utm_medium=email&utm_campaign=7583_featured_new_credible_2_may2025&utm_date_sent=2025-7-27&utm_emailtype=marketing
